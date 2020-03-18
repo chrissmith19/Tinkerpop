@@ -1,0 +1,2264 @@
+{
+    "roles": {
+        "SC": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            }
+        ],
+        "BR": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            }
+        ],
+        "DE": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 159,
+                "roleName": "sm2"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            },
+            {
+                "roleId": 1591,
+                "roleName": "sm21"
+            }
+        ],
+        "TH": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            }
+        ],
+        "AU": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            }
+        ],
+        "SG": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            }
+        ],
+        "MX": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            },
+            {
+                "roleId": 619,
+                "roleName": "partner_id_based_role"
+            }
+        ],
+        "GB": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "StreamHistoria"
+            },
+            {
+                "roleId": 2,
+                "roleName": "StreamTnt"
+            },
+            {
+                "roleId": 3,
+                "roleName": "StreamTcm"
+            },
+            {
+                "roleId": 14,
+                "roleName": "Cartoonnetwork_TVBOXSETS"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 123,
+                "roleName": "role-name"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 596,
+                "roleName": "sportsnewsdigital"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            },
+            {
+                "roleId": 619,
+                "roleName": "somerole-testing-canbedeleted"
+            },
+            {
+                "roleId": 623,
+                "roleName": "somerole-testing-canbedeleted-demo1"
+            },
+            {
+                "roleId": 625,
+                "roleName": "somerole-testing-canbedeleted-demo2"
+            },
+            {
+                "roleId": 626,
+                "roleName": "somerole-testing-canbedeleted-demo3"
+            }
+        ],
+        "IT": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            }
+        ],
+        "MY": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            }
+        ],
+        "PL": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            }
+        ],
+        "NZ": [
+            {
+                "roleId": 0,
+                "roleName": "ott-anyone"
+            },
+            {
+                "roleId": 1,
+                "roleName": "disneymovies-catchup"
+            },
+            {
+                "roleId": 2,
+                "roleName": "streammoviescomedy"
+            },
+            {
+                "roleId": 3,
+                "roleName": "extra_devices"
+            },
+            {
+                "roleId": 63,
+                "roleName": "ethan"
+            },
+            {
+                "roleId": 64,
+                "roleName": "streamgoodfood"
+            },
+            {
+                "roleId": 78,
+                "roleName": "goodfood-catchup"
+            },
+            {
+                "roleId": 126,
+                "roleName": "ci-tvboxset"
+            },
+            {
+                "roleId": 127,
+                "roleName": "animalplanet-tvboxset"
+            },
+            {
+                "roleId": 129,
+                "roleName": "goodfood-tvboxset"
+            },
+            {
+                "roleId": 203,
+                "roleName": "downloads_allowed"
+            },
+            {
+                "roleId": 351,
+                "roleName": "animalplanet-catchup"
+            },
+            {
+                "roleId": 352,
+                "roleName": "streamanimalplanet"
+            },
+            {
+                "roleId": 353,
+                "roleName": "ci-catchup"
+            },
+            {
+                "roleId": 382,
+                "roleName": "global_access_allowed"
+            },
+            {
+                "roleId": 383,
+                "roleName": "go_global_access_allowed"
+            },
+            {
+                "roleId": 390,
+                "roleName": "dth_hd"
+            },
+            {
+                "roleId": 391,
+                "roleName": "go_hd"
+            },
+            {
+                "roleId": 590,
+                "roleName": "any_ott"
+            },
+            {
+                "roleId": 591,
+                "roleName": "ultrapack"
+            },
+            {
+                "roleId": 592,
+                "roleName": "multi_layered_ott"
+            },
+            {
+                "roleId": 593,
+                "roleName": "none_ott_list"
+            },
+            {
+                "roleId": 594,
+                "roleName": "number_ott_role"
+            },
+            {
+                "roleId": 595,
+                "roleName": "special_character_ott_role"
+            },
+            {
+                "roleId": 597,
+                "roleName": "streamskysports1"
+            },
+            {
+                "roleId": 598,
+                "roleName": "playready_developer"
+            },
+            {
+                "roleId": 599,
+                "roleName": "authidrole"
+            },
+            {
+                "roleId": 600,
+                "roleName": "abc_catchup"
+            },
+            {
+                "roleId": 601,
+                "roleName": "comedycentral_catchup"
+            },
+            {
+                "roleId": 602,
+                "roleName": "disneymovies_tvboxsets"
+            },
+            {
+                "roleId": 603,
+                "roleName": "skydisney_catchup"
+            },
+            {
+                "roleId": 604,
+                "roleName": "samplevod_tvboxsets"
+            },
+            {
+                "roleId": 605,
+                "roleName": "streamskynewslive"
+            },
+            {
+                "roleId": 606,
+                "roleName": "playersamplingoffer"
+            },
+            {
+                "roleId": 607,
+                "roleName": "movies_catchup"
+            },
+            {
+                "roleId": 608,
+                "roleName": "streamsports"
+            },
+            {
+                "roleId": 609,
+                "roleName": "streamirelandentertainment"
+            },
+            {
+                "roleId": 610,
+                "roleName": "streamfreetoair"
+            },
+            {
+                "roleId": 611,
+                "roleName": "extra_devices_allowed"
+            },
+            {
+                "roleId": 612,
+                "roleName": "proposition_based_entitlement"
+            },
+            {
+                "roleId": 613,
+                "roleName": "movies_tvboxsets"
+            },
+            {
+                "roleId": 614,
+                "roleName": "active_user_role"
+            },
+            {
+                "roleId": 615,
+                "roleName": "preactive_user_role"
+            },
+            {
+                "roleId": 616,
+                "roleName": "device_type_based_role"
+            },
+            {
+                "roleId": 617,
+                "roleName": "platform_based_role"
+            },
+            {
+                "roleId": 618,
+                "roleName": "dynamic_role"
+            }
+        ]
+    }
+}

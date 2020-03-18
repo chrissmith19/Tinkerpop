@@ -1,0 +1,14 @@
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',3,'StreamCalle13');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',4,'ABC_TVBOXSETS');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',5,'StreamAxn');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',6,'StreamAxnwhite');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',7,'babytv_CATCHUP');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',8,'ABC_CATCHUP');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',9,'babytv_TVBOXSETS');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',10,'DOWNLOADS_ALLOWED');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',11,'axnwhite_CATCHUP');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',12,'axn_CATCHUP');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',13,'axnwhite_TVBOXSETS');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',14,'axn_TVBOXSETS');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',15,'PLAYREADY_DEVELOPER');
+INSERT INTO ott_roles (provider_territory, role_id, role_name) VALUES('GB',16,'GLOBAL_ACCESS_ALLOWED');
